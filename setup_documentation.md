@@ -119,7 +119,7 @@ Download the "MySQL Installer for Windows".
 ![alt text](<Screenshot (202).png>)
 Run the Installer:
 ![alt text](<Screenshot (203).png>)
-![alt text](<Screenshot (212).png>)
+[alt text](<Screenshot (212).png>)
 ![alt text](<Screenshot (214).png>)
 ![alt text](<Screenshot (215).png>)
 ![alt text](<Screenshot (216).png>)
@@ -138,7 +138,6 @@ Run the Installer:
 ![alt text](<Screenshot (229).png>)
 
 
-
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
@@ -150,22 +149,4 @@ Run the Installer:
 Go to the "extension icon" on VS Code, search for linting and install
 ![alt text](<Screenshot (208).png>)   
 
-9. Document Your Setup:
-    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
-#Deliverables:
-- Document detailing the setup process with step-by-step instructions and screenshots where necessary.
-- A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
-cversion control integration- A reflection on the challenges faced during setup and strategies employed to overcome them.
-
-#Submission:
-Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
-
-#Evaluation Criteria:**
-- Completeness and accuracy of setup documentation.
-- Effectiveness of version control implementation.
-- Appropriateness of tools selected for the project requirements.
-- Clarity of reflection on challenges and solutions encountered.
-- Adherence to submission guidelines and deadlines.
-
-Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
